@@ -32,7 +32,7 @@
 
 ## Connect with Me
 
-- GitHub: [github.com/neeravbaraha](https://github.com/neeravbaraha)  
+- GitHub: [github.com/nirabbaraha](https://github.com/nirabbaraha)  
 - Email: nirabbaraha.dev@gmail.com  
 
 ---
