@@ -58,7 +58,7 @@
 
 ### 🐍 The Caffeine Trail
 <div align="center">
-  <img src="https://raw.githubusercontent.com/nirabbaraha/nirabbaraha/output/profile-3d-contrib/profile-night-rainbow.svg" width="100%" alt="3D Contribution City" />
+  <img src="https://raw.githubusercontent.com/nirabbaraha/nirabbaraha/output/github-contribution-grid-snake.svg" alt="Snake Animation" width="100%" />
 </div>
 
 ---
