@@ -8,6 +8,8 @@ on:
 jobs:
   build:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
     steps:
       - uses: actions/checkout@v3
 
@@ -27,11 +29,12 @@ jobs:
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
 
-      # 3. THE FIX: Move City folder INTO the Snake's folder
-      - name: Merge Folders
+      # 3. THE FIX: Using sudo to force the merge past 'Permission Denied'
+      - name: Force Merge Folders
         run: |
-          mkdir -p dist
-          cp -r profile-3d-contrib dist/
+          sudo mkdir -p dist
+          sudo cp -r profile-3d-contrib dist/
+          sudo chmod -R 777 dist
 
       # 4. Deploy everything in 'dist' to the 'output' branch
       - name: Deploy
