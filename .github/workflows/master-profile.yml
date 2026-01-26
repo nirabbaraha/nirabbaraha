@@ -28,10 +28,11 @@ jobs:
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
 
       # 3. Push the generated images to a special 'output' branch
+   # 3. Push EVERYTHING generated to the 'output' branch
       - name: Deploy to Output Branch
         uses: crazy-max/ghaction-github-pages@v3
         with:
           target_branch: output
-          build_dir: dist
+          build_dir: .
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
