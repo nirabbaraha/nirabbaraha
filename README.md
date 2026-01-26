@@ -1,5 +1,11 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/render?type=waving&color=2b1700&height=250&section=header&text=Nirab%20Baraha&fontSize=70&animation=fadeIn&fontAlignY=35&desc=From%20Espresso%20Shots%20to%20Code%20Commits&descSize=25&descAlignY=60" width="100%" />
+<div align="center">
+  <img src="https://capsule-render.vercel.app/render?type=waving&color=3c2a21&height=250&section=header&text=Nirab%20Baraha&fontSize=70&animation=fadeIn&fontAlignY=35&desc=From%20Espresso%20Shots%20to%20Code%20Commits&descSize=25&descAlignY=60" width="100%" alt="Header Image" />
+
+  <p align="center">
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=D4A373&center=true&vCenter=true&width=500&lines=System.out.println(%22Hello+World%22);while(coffee)+{+code();+};MERN+Stack+Architect;Problem+Solver+@+LeetCode" alt="Typing SVG" /></a>
+  </p>
+</div>
 
   <p align="center">
     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=D4A373&center=true&vCenter=true&width=500&lines=System.out.println(%22Hello+World%22);while(coffee)+{+code();+};MERN+Stack+Architect;Problem+Solver+@+LeetCode" alt="Typing SVG" /></a>
