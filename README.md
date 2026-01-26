@@ -52,7 +52,7 @@
 
 ### 🏙️ 3D Contribution City
 <div align="center">
-  <img src="https://raw.githubusercontent.com/nirabbaraha/nirabbaraha/output/profile-3d-contrib/profile-night-rainbow.svg" width="100%" />
+  <img src="https://raw.githubusercontent.com/nirabbaraha/nirabbaraha/output/profile-3d-contrib/profile-night-rainbow.svg" width="100%" alt="3D Contribution City" />
 </div>
 
 ---
