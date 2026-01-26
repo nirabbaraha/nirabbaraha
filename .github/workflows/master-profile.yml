@@ -2,8 +2,8 @@ name: Master Profile Update
 
 on:
   schedule:
-    - cron: "0 0 * * *" # Runs every night at midnight
-  workflow_dispatch: # Allows you to run it manually
+    - cron: "0 0 * * *"
+  workflow_dispatch:
 
 jobs:
   build:
@@ -27,12 +27,17 @@ jobs:
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
 
-      # 3. Push the generated images to a special 'output' branch
-   # 3. Push EVERYTHING generated to the 'output' branch
+      # 3. Move the 3D City folder into the dist folder so both are deployed
+      - name: Move City to Dist
+        run: |
+          mkdir -p dist
+          mv profile-3d-contrib dist/
+
+      # 4. Push ONLY the contents of the 'dist' folder to the 'output' branch
       - name: Deploy to Output Branch
         uses: crazy-max/ghaction-github-pages@v3
         with:
           target_branch: output
-          build_dir: .
+          build_dir: dist
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
