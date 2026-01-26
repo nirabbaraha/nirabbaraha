@@ -11,15 +11,15 @@ jobs:
     steps:
       - uses: actions/checkout@v3
 
-      # 1. Generate the 3D Isometric City
-      - name: Generate 3D Contribution Graph
+      # 1. Generate 3D City
+      - name: Generate 3D City
         uses: yoshi389111/github-profile-3d-contrib@0.7.1
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           USERNAME: nirabbaraha
 
-      # 2. Generate the Animated Snake
-      - name: Generate Snake SVG
+      # 2. Generate Snake
+      - name: Generate Snake
         uses: Platane/snk@v3
         with:
           github_user_name: nirabbaraha
@@ -27,12 +27,17 @@ jobs:
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
 
-      # 3. Fail-safe Deploy: This pushes everything created in this run
-      - name: Deploy to Output Branch
+      # 3. THE FIX: Move City folder INTO the Snake's folder
+      - name: Merge Folders
+        run: |
+          mkdir -p dist
+          cp -r profile-3d-contrib dist/
+
+      # 4. Deploy everything in 'dist' to the 'output' branch
+      - name: Deploy
         uses: crazy-max/ghaction-github-pages@v3
         with:
           target_branch: output
-          build_dir: .
-          keep_history: true
+          build_dir: dist
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
