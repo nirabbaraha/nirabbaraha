@@ -1,104 +1,99 @@
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Nirab%20Baraha&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Develaper%20%7C%20AI%20Enthusiast&descAlignY=51&descAlign=62" alt="Header" />
+</div>
 
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=35ced3&center=true&vCenter=true&width=435&lines=Hi+There!+%F0%9F%91%8B;I'm+Nirab+Baraha;Full+Stack+Developer;Open+Source+Enthusiast" alt="Typing SVG" />
-
-<h3 align="center">🚀 Transforming ideas into reality through code</h3>
-
-<p align="center">
-  <a href="https://github.com/nirabbaraha">
-    <img src="https://komarev.com/ghpvc/?username=nirabbaraha&label=Profile%20Views&color=0e75b6&style=flat" alt="oview" />
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=2196F3&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Writing+code+that+matters;Building+scalable+AI+solutions;Always+learning+something+new" alt="Typing SVG" />
   </a>
-</p>
 
-<p align="center">
-  <a href="#-tech-stack">Skills</a> •
-  <a href="#-github-stats">Stats</a> •
-  <a href="#-connect-with-me">Connect</a>
-</p>
-
-</div>
-
----
-
-### 👨‍💻 About Me
-
-- 🔭 I’m currently working on **Full Stack Web Development**
-- 🌱 I’m currently learning **Advanced Data Science & AI**
-- 👯 I’m looking to collaborate on **Open Source Projects**
-- 💬 Ask me about **React, Next.js, Node.js, and Python**
-- ⚡ Fun fact: **I can center a div in 3 different ways!**
-
----
-
-### 🛠 Tech Stack
-
-<div align="center">
-
-<h4>Languages</h4>
-<p>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="javascript"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="python"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html5"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css3"/>
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="typescript"/>
-</p>
-
-<h4>Frontend</h4>
-<p>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="react"/>
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="nextjs"/>
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="tailwind"/>
-</p>
-
-<h4>Backend & Database</h4>
-<p>
-  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="nodejs"/>
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="mongodb"/>
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="firebase"/>
-</p>
-
-<h4>Tools</h4>
-<p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="git"/>
-  <img src="https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="vscode"/>
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="postman"/>
-</p>
+  <p align="center">
+    <a href="https://github.com/nirabbaraha">
+      <img src="https://komarev.com/ghpvc/?username=nirabbaraha&label=Profile%20Views&color=blueviolet&style=for-the-badge" alt="Profile Views" />
+    </a>
+    <a href="https://github.com/nirabbaraha?tab=followers">
+      <img src="https://img.shields.io/github/followers/nirabbaraha?label=Followers&style=for-the-badge&color=2ecc71" alt="Followers" />
+    </a>
+  </p>
 
 </div>
 
 ---
 
-### 📊 GitHub Stats
+### 🏆 Github Trophies
+<div align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=nirabbaraha&theme=onedark&column=7&margin-w=15&margin-h=15&no-date=true" alt="trophy" />
+  </a>
+</div>
+
+---
 
 <div align="center">
 
-<a href="https://github.com/nirabbaraha">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nirabbaraha&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&count_private=true&include_all_commits=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nirabbaraha&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" />
-</a>
+### ⚡ Stats & Activity
+
+| **GitHub Statistics** | **Streak Count** |
+|:---:|:---:|
+| <img height="180" src="https://github-readme-stats.vercel.app/api?username=nirabbaraha&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000&count_private=true" /> | <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=nirabbaraha&theme=tokyonight&hide_border=true&background=00000000" /> |
 
 <br/>
 
-<a href="https://github.com/nirabbaraha">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nirabbaraha&theme=tokyonight&hide_border=true&background=0D1117" alt="streak stats"/>
-</a>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nirabbaraha&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000" height="150" alt="Top Languages" />
 
 </div>
 
 ---
 
-### 🤝 Connect with Me
-
-<div align="center"> 
-  <a href="https://github.com/nirabbaraha">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="Github Badge"/>
-  </a>
-  <!-- Add your LinkedIn, Twitter, or Website links here following the same pattern -->
-</div>
-
-<br />
+### 🛠️ Technologies & Tools
 
 <div align="center">
-  <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="600" />
+  
+| **Frontend** | **Backend** | **AI & Data** | **DevOps & Tools** |
+|:---:|:---:|:---:|:---:|
+| <img height="40" src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css&perline=5" /> | <img height="40" src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase,postgres&perline=5" /> | <img height="40" src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,opencv,pandas&perline=5" /> | <img height="40" src="https://skillicons.dev/icons?i=git,github,docker,aws,linux,vscode&perline=5" /> |
+
+</div>
+
+---
+
+### 🐍 Contribution Snake
+<!-- 
+NOTE: To make this snake animation work, you need to set up a GitHub Action.
+1. Create a file in your repo at .github/workflows/snake.yml
+2. Copy the workflow code for 'Platane/snk' into that file.
+3. The image below will automatically update!
+-->
+<div align="center">
+  <img src="https://github.com/nirabbaraha/nirabbaraha/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" width="100%"/>
+</div>
+
+---
+
+<details>
+<summary><b>📜 Random Dev Joke (Click to expand)</b></summary>
+<br/>
+
+<div align="center">
+  <img src="https://readme-jokes.vercel.app/api?theme=tokyonight" alt="Jokes Card" />
+</div>
+
+</details>
+
+---
+
+<div align="center">
+  <h3>🤝 Let's Connect</h3>
+  <p>
+    <a href="https://linkedin.com/in/#">
+      <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    </a>
+    <a href="mailto:your-email@example.com">
+      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+    </a>
+    <a href="https://twitter.com/#">
+      <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
+    </a>
+  </p>
 </div>
