@@ -27,17 +27,12 @@ jobs:
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
 
-      # 3. Move the 3D City folder into the dist folder so both are deployed
-      - name: Move City to Dist
-        run: |
-          mkdir -p dist
-          mv profile-3d-contrib dist/
-
-      # 4. Push ONLY the contents of the 'dist' folder to the 'output' branch
+      # 3. Fail-safe Deploy: This pushes everything created in this run
       - name: Deploy to Output Branch
         uses: crazy-max/ghaction-github-pages@v3
         with:
           target_branch: output
-          build_dir: dist
+          build_dir: .
+          keep_history: true
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
