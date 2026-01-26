@@ -1,65 +1,61 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/render?type=soft&color=auto&height=250&section=header&text=NIRAB%20BARAHA&fontSize=80&animation=fadeIn" width="100%" />
-</p>
-
 <div align="center">
-  <img src="https://img.shields.io/badge/Focus-MERN%20%26%20Django-667eea?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Logic-DSA%20in%20Java-764ba2?style=for-the-badge" />
-  <img src="https://img.shields.io/github/languages/top/nirabbaraha/nirabbaraha?style=for-the-badge" />
+  <img src="https://capsule-render.vercel.app/render?type=kashida&color=gradient&height=200&section=header&text=NIRAB%20BARAHA&fontSize=80&animation=twinkling" width="100%" />
+
+  <p align="center">
+    <a href="https://linkedin.com/in/nirabbaraha"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+    <a href="mailto:your-email@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+    <a href="https://leetcode.com/nirabbaraha"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" /></a>
+  </p>
 </div>
 
 ---
 
-## 🌌 The Multiverse of My Stack
-
+## 🛠 Mastering the Full-Stack & Algorithms
 <div align="center">
-  
-| **Category** | **Technologies** |
-| :--- | :--- |
-| **Frontend** | <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap,redux" /> |
-| **Backend** | <img src="https://skillicons.dev/icons?i=nodejs,express,py,django,mongodb,postgres" /> |
-| **Languages** | <img src="https://skillicons.dev/icons?i=cpp,java,c,py,js" /> |
-| **DevOps/Tools** | <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,docker" /> |
-
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-used-languages?username=nirabbaraha&theme=tokyonight" width="32%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=nirabbaraha&theme=tokyonight" width="32%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=nirabbaraha&theme=tokyonight" width="32%" />
 </div>
 
 ---
 
-## 📈 Engineering Metrics
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nirabbaraha&show_icons=true&theme=transparent&title_color=764ba2&text_color=ffffff&icon_color=667eea&text_bold=true" width="49%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nirabbaraha&layout=compact&theme=transparent&title_color=764ba2&text_color=ffffff&icon_color=667eea&text_bold=true" width="48%" />
-</p>
+## 🚀 Technical Arsenal
 
+### 💻 System Architect (MERN & Django)
+- **Frontend:** `React.js`, `Redux`, `Tailwind CSS`, `Next.js`
+- **Backend:** `Node.js`, `Express`, `Django (Python)`, `FastAPI`
+- **Databases:** `MongoDB`, `PostgreSQL`, `Redis`
+
+### 🧠 Core Foundations (DSA & Low Level)
+- **Problem Solving:** `Java`, `C++`, `Data Structures`, `Algorithms`
+- **Low-Level:** `C Programming`, `Memory Management`
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=mongodb,express,react,nodejs,django,py,java,cpp,c,git,github,docker,aws,linux,postman" />
+</div>
+
+---
+
+## 📊 Live Coding Metrics
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=nirabbaraha&layout=compact&theme=tokyonight&border_radius=10" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nirabbaraha&theme=tokyonight&hide_border=true" width="48%" />
+</div>
+
+---
+
+## 🎭 The Contribution Galaxy (3D View)
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nirabbaraha&theme=transparent" width="100%" />
+  <img src="https://github.com/nirabbaraha/nirabbaraha/raw/output/github-contribution-grid-snake.svg" alt="Snake" width="80%" />
 </p>
 
 ---
 
-## 🕵️ Recent Activity
-* 🔨 **Currently working on:** Advanced MERN project
-* 📚 **Learning:** System Design & Distributed Systems
-* 🚀 **Recent Commit:** Fixed API throttling in Django project
----
-
-## 🕹️ Contribution Galaxy
-<p align="center">
-  <img src="https://github.com/nirabbaraha/nirabbaraha/blob/output/github-contribution-grid-snake.svg" alt="Snake" width="100%" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=nirabbaraha&theme=tokyonight&no-bg=true&margin-w=15" width="100%" />
-</p>
+## 🎵 Currently Vibing To...
+[![Spotify](https://novatorem-spotify-api.vercel.app/api/spotify-playing-track?user=YOUR_SPOTIFY_ID)](https://open.spotify.com/user/YOUR_SPOTIFY_ID)
 
 ---
 
-## 📬 Reach Out
-<p align="center">
-<a href="mailto:your_email@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://linkedin.com/in/nirabbaraha"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-</p>
-
-<p align="center"> 
-  <img src="https://komarev.com/ghpvc/?username=nirabbaraha&label=PROFILE%20VIEWS&color=764ba2&style=flat-square" />
-</p>
+<div align="center">
+  <img src="https://raw.githubusercontent.com/nirabbaraha/nirabbaraha/output/profile-3d-contrib/profile-night-rainbow.svg" width="100%" />
+</div>
