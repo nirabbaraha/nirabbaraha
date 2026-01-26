@@ -1,61 +1,56 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/render?type=kashida&color=gradient&height=200&section=header&text=NIRAB%20BARAHA&fontSize=80&animation=twinkling" width="100%" />
+  <img src="https://capsule-render.vercel.app/render?type=rect&color=000000&height=250&section=header&text=NIRAB%20BARAHA&fontSize=80&animation=fadeIn&fontColor=ffffff" width="100%" />
 
   <p align="center">
-    <a href="https://linkedin.com/in/nirabbaraha"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-    <a href="mailto:your-email@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-    <a href="https://leetcode.com/nirabbaraha"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" /></a>
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=FFFFFF&center=true&vCenter=true&width=500&lines=Full-Stack+Software+Engineer;MERN+%26+Django+Specialist;DSA+Expert+in+Java+%2F+C%2B%2B;System+Design+Architect" alt="Typing SVG" /></a>
   </p>
 </div>
 
 ---
 
-## 🛠 Mastering the Full-Stack & Algorithms
+### 🚀 Engineering Status
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-used-languages?username=nirabbaraha&theme=tokyonight" width="32%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=nirabbaraha&theme=tokyonight" width="32%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=nirabbaraha&theme=tokyonight" width="32%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=nirabbaraha&show_icons=true&theme=dark&hide_border=true&bg_color=00000000&title_color=ffffff&text_color=aaaaaa&icon_color=ffffff" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nirabbaraha&layout=compact&theme=dark&hide_border=true&bg_color=00000000&title_color=ffffff&text_color=aaaaaa" width="48%" />
 </div>
 
 ---
 
-## 🚀 Technical Arsenal
+### 🛠️ Specialized Arsenal
 
-### 💻 System Architect (MERN & Django)
-- **Frontend:** `React.js`, `Redux`, `Tailwind CSS`, `Next.js`
-- **Backend:** `Node.js`, `Express`, `Django (Python)`, `FastAPI`
-- **Databases:** `MongoDB`, `PostgreSQL`, `Redis`
+| **Domain** | **Tools & Technologies** |
+| :--- | :--- |
+| **Web Infrastructure** | `MongoDB` `Express` `React` `Node` `Django` `PostgreSQL` `Redux` |
+| **Problem Solving** | `Java` `C++` `C` `Data Structures` `Algorithms` `System Design` |
+| **DevOps & Cloud** | `Git` `GitHub Actions` `Docker` `AWS` `Linux` `Postman` |
 
-### 🧠 Core Foundations (DSA & Low Level)
-- **Problem Solving:** `Java`, `C++`, `Data Structures`, `Algorithms`
-- **Low-Level:** `C Programming`, `Memory Management`
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=mongodb,express,react,nodejs,django,py,java,cpp,c,git,github,docker,aws,linux,postman" />
-</div>
-
----
-
-## 📊 Live Coding Metrics
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=nirabbaraha&layout=compact&theme=tokyonight&border_radius=10" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nirabbaraha&theme=tokyonight&hide_border=true" width="48%" />
-</div>
-
----
-
-## 🎭 The Contribution Galaxy (3D View)
 <p align="center">
-  <img src="https://github.com/nirabbaraha/nirabbaraha/raw/output/github-contribution-grid-snake.svg" alt="Snake" width="80%" />
+  <img src="https://skillicons.dev/icons?i=mongodb,express,react,nodejs,django,py,java,cpp,c,git,github,docker,aws,linux,postman,tailwind,nextjs,redux" />
 </p>
 
 ---
 
-## 🎵 Currently Vibing To...
-[![Spotify](https://novatorem-spotify-api.vercel.app/api/spotify-playing-track?user=YOUR_SPOTIFY_ID)](https://open.spotify.com/user/YOUR_SPOTIFY_ID)
+### 🏙️ 3D Contribution Universe
+<div align="center">
+  <img src="https://raw.githubusercontent.com/nirabbaraha/nirabbaraha/output/profile-3d-contrib/profile-night-rainbow.svg" width="100%" />
+</div>
+
+---
+
+### 🐍 Contribution Activity
+<div align="center">
+  <img src="https://github.com/nirabbaraha/nirabbaraha/blob/output/github-contribution-grid-snake.svg" alt="Snake" width="100%" />
+</div>
+
+---
+
+### 📈 Detailed Activity Streak
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nirabbaraha&theme=dark&hide_border=true&background=00000000" width="100%" />
+</p>
 
 ---
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/nirabbaraha/nirabbaraha/output/profile-3d-contrib/profile-night-rainbow.svg" width="100%" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" width="80%" />
 </div>
