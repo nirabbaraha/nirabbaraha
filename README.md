@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/render?type=waving&color=3c2a21&height=200&section=header&text=Nirab%20Baraha&fontSize=70&animation=fadeIn&fontAlignY=35&desc=From%20Espresso%20Shots%20to%20Code%20Commits&descSize=25&descAlignY=60" width="100%" alt="Nirab Baraha Header" />
+  <img src="https://capsule-render.vercel.app/render?type=waving&color=3c2a21&height=200&section=header&text=Nirab%20Baraha&fontSize=70&animation=fadeIn&fontAlignY=35&desc=From%20Espresso%20Shots%20to%20Code%20Commits&descSize=25&descAlignY=60" width="100%" alt="Nirab Baraha" />
 
   <p align="center">
     <a href="https://git.io/typing-svg">
