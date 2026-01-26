@@ -1,99 +1,73 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Nirab%20Baraha&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Develaper%20%7C%20AI%20Enthusiast&descAlignY=51&descAlign=62" alt="Header" />
-</div>
-
-<div align="center">
-
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=2196F3&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Writing+code+that+matters;Building+scalable+AI+solutions;Always+learning+something+new" alt="Typing SVG" />
-  </a>
+  <img src="https://capsule-render.vercel.app/render?type=waving&color=2b1700&height=250&section=header&text=Nirab%20Baraha&fontSize=70&animation=fadeIn&fontAlignY=35&desc=From%20Espresso%20Shots%20to%20Code%20Commits&descSize=25&descAlignY=60" width="100%" />
 
   <p align="center">
-    <a href="https://github.com/nirabbaraha">
-      <img src="https://komarev.com/ghpvc/?username=nirabbaraha&label=Profile%20Views&color=blueviolet&style=for-the-badge" alt="Profile Views" />
-    </a>
-    <a href="https://github.com/nirabbaraha?tab=followers">
-      <img src="https://img.shields.io/github/followers/nirabbaraha?label=Followers&style=for-the-badge&color=2ecc71" alt="Followers" />
-    </a>
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=D4A373&center=true&vCenter=true&width=500&lines=System.out.println(%22Hello+World%22);while(coffee)+{+code();+};MERN+Stack+Architect;Problem+Solver+@+LeetCode" alt="Typing SVG" /></a>
   </p>
+</div>
+
+---
+
+### ☕ About the Barista
+- 🔭 **Current Focus:** Crafting scalable web applications using the **MERN Stack** and **Django**.
+- 🧠 **Logic Engine:** Solving complex puzzles with **Java** and **C++** (DSA Specialist).
+- 💻 **Environment:** Navigating through **Unix** terminals and managing versions with **Git**.
+- ⚡ **Philosophy:** Code should be as smooth as a well-pulled double shot of espresso.
+
+---
+
+### 🛠️ The Tech Menu (Skills)
+
+<div align="center">
+
+| **Roast Level** | **Technologies** |
+| :--- | :--- |
+| **Dark Roast (Core)** | <img src="https://skillicons.dev/icons?i=java,cpp,c,py" /> |
+| **Full-Bodied (Web)** | <img src="https://skillicons.dev/icons?i=mongodb,express,react,nodejs,js,tailwind" /> |
+| **The Blend (Tools)** | <img src="https://skillicons.dev/icons?i=git,github,linux,bash,postman,vscode" /> |
 
 </div>
 
 ---
 
-### 🏆 Github Trophies
+### 📊 Late Night Stats
 <div align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=nirabbaraha&theme=onedark&column=7&margin-w=15&margin-h=15&no-date=true" alt="trophy" />
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api?username=nirabbaraha&show_icons=true&theme=dracula&bg_color=1a1b27&title_color=d4a373&text_color=ffffff&icon_color=d4a373&border_radius=10" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nirabbaraha&layout=compact&theme=dracula&bg_color=1a1b27&title_color=d4a373&text_color=ffffff&border_radius=10" width="48%" />
 </div>
 
 ---
 
+### 🧩 Problem Solving (LeetCode)
 <div align="center">
-
-### ⚡ Stats & Activity
-
-| **GitHub Statistics** | **Streak Count** |
-|:---:|:---:|
-| <img height="180" src="https://github-readme-stats.vercel.app/api?username=nirabbaraha&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000&count_private=true" /> | <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=nirabbaraha&theme=tokyonight&hide_border=true&background=00000000" /> |
-
-<br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nirabbaraha&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000" height="150" alt="Top Languages" />
-
+  <img src="https://leetcard.jacoblin.cool/FW3KeSgs6C?theme=dark&font=Fira%20Code&border=0" width="80%" />
 </div>
 
 ---
 
-### 🛠️ Technologies & Tools
-
+### 🏙️ 3D Contribution City
 <div align="center">
-  
-| **Frontend** | **Backend** | **AI & Data** | **DevOps & Tools** |
-|:---:|:---:|:---:|:---:|
-| <img height="40" src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css&perline=5" /> | <img height="40" src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase,postgres&perline=5" /> | <img height="40" src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,opencv,pandas&perline=5" /> | <img height="40" src="https://skillicons.dev/icons?i=git,github,docker,aws,linux,vscode&perline=5" /> |
-
+  <img src="https://raw.githubusercontent.com/nirabbaraha/nirabbaraha/output/profile-3d-contrib/profile-night-rainbow.svg" width="100%" />
 </div>
 
 ---
 
-### 🐍 Contribution Snake
-<!-- 
-NOTE: To make this snake animation work, you need to set up a GitHub Action.
-1. Create a file in your repo at .github/workflows/snake.yml
-2. Copy the workflow code for 'Platane/snk' into that file.
-3. The image below will automatically update!
--->
+### 🐍 The Caffeine Trail
 <div align="center">
-  <img src="https://github.com/nirabbaraha/nirabbaraha/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" width="100%"/>
+  <img src="https://github.com/nirabbaraha/nirabbaraha/blob/output/github-contribution-grid-snake.svg" alt="Snake" width="100%" />
 </div>
 
 ---
 
-<details>
-<summary><b>📜 Random Dev Joke (Click to expand)</b></summary>
-<br/>
-
+### 🤝 Let's Connect Over Coffee
 <div align="center">
-  <img src="https://readme-jokes.vercel.app/api?theme=tokyonight" alt="Jokes Card" />
+<a href="https://www.linkedin.com/in/nirab-baraha-b48a14369/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://leetcode.com/u/FW3KeSgs6C/" target="blank"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" /></a>
+<a href="mailto:your_email@gmail.com" target="blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </div>
 
-</details>
-
----
+<br />
 
 <div align="center">
-  <h3>🤝 Let's Connect</h3>
-  <p>
-    <a href="https://linkedin.com/in/#">
-      <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-    </a>
-    <a href="mailto:your-email@example.com">
-      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-    </a>
-    <a href="https://twitter.com/#">
-      <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
-    </a>
-  </p>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula" width="80%" />
 </div>
