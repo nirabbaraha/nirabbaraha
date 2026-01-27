@@ -1,7 +1,4 @@
-![Header](https://capsule-render.vercel.app/render?type=waving&color=3c2a21&height=200&section=header&text=Nirab%20Baraha&fontSize=70&animation=fadeIn&fontAlignY=35&desc=From%20Espresso%20Shots%20to%20Code%20Commits&descSize=25&descAlignY=60&v=2)
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=D4A373&center=true&vCenter=true&width=500&lines=System.out.println(%22Hello+World%22);while(coffee)+{+code();+};MERN+Stack+Architect;Problem+Solver+@+LeetCode)](https://git.io/typing-svg)
-
+<div align="center"> <img src="https://capsule-render.vercel.app/render?type=waving&color=3c2a21&height=200&section=header&text=Nirab%20Baraha&fontSize=70&animation=fadeIn&fontAlignY=35&desc=From%20Espresso%20Shots%20to%20Code%20Commits&descSize=25&descAlignY=60&v=2" width="100%" alt="Nirab Baraha" /> <p align="center"> <a href="https://git.io/typing-svg"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=D4A373&center=true&vCenter=true&width=500&lines=System.out.println(%22Hello+World%22);while(coffee)+{+code();+};MERN+Stack+Architect;Problem+Solver+@+LeetCode" alt="Typing SVG" /> </a> </p> </div>
 
 
 
