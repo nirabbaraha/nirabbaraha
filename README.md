@@ -72,7 +72,12 @@ $ cat about.json
 ## `~/leetcode`
 
 <div align="center">
-  <img src="https://leetcard.jacoblin.cool/FW3KeSgs6C?theme=dark&font=JetBrains+Mono&border=0&radius=10&ext=activity" width="75%" />
+
+<!-- Replace YOUR_LEETCODE_USERNAME below with your actual LeetCode username (e.g. nirabbaraha) -->
+
+  <img src="https://leetcard.jacoblin.cool/YOUR_LEETCODE_USERNAME?theme=dark&font=JetBrains+Mono&border=0&radius=10&ext=heatmap" width="49%" />
+  <img src="https://leetcode-badge-showcase.vercel.app/api?username=YOUR_LEETCODE_USERNAME&theme=dark&border=no_border" width="49%" />
+
 </div>
 
 ---
@@ -119,7 +124,7 @@ $ cat about.json
   <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 &nbsp;
-<a href="https://leetcode.com/u/FW3KeSgs6C/" target="_blank">
+<a href="https://leetcode.com/u/YOUR_LEETCODE_USERNAME/" target="_blank">
   <img src="https://img.shields.io/badge/LeetCode-%23FFA116.svg?style=for-the-badge&logo=leetcode&logoColor=black" />
 </a>
 &nbsp;
